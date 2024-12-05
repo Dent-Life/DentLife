@@ -80,7 +80,7 @@ Zirkonyum Diş Kaplama kampanyamız başladı!
 
 📞 Telefon: **(0212) 689 69 50**  
 📍 Adres: **Necip Fazıl Kısakürek, Ankakuşu Sk., 34522 Esenyurt/İstanbul**  
-🌐 **[Web Sitesi](https://dentlifes.com)**  
+🌐 **[ Dent Life Ağız ve Diş Sağlığı Polikliniği Web Sitesi ](https://dentlifes.com)**  
 
 🎥 **İzleyin:**  
 [![Ücretsiz Muayene Fırsatı](https://img.youtube.com/vi/E-KPbpZMQUY/maxresdefault.jpg)](https://www.youtube.com/shorts/E-KPbpZMQUY)  
