@@ -13,7 +13,7 @@ Dent Life, ağız ve diş sağlığında modern ve profesyonel hizmet anlayış�
 Çürük dişlerinizi sağlıklı bir hale getirmek için konservatif diş tedavisi hizmetimizden yararlanın.  
 
 ![Konservatif Diş Tedavisi](https://dentlifes.com/tema/genel/uploads/hizmetler/8-1.jpg)  
-🔗 [Konservatif Diş Tedavisi Detayları](https://dentlifes.com/hizmet-detay/konservatif-dis-tedavisi)  
+🔗 [Konservatif Diş Tedavisi](https://dentlifes.com/hizmet-detay/konservatif-dis-tedavisi)  
 
 ---
 
@@ -21,7 +21,7 @@ Dent Life, ağız ve diş sağlığında modern ve profesyonel hizmet anlayış�
 Kaybolan diş fonksiyonlarını geri kazandırmak için protetik tedavi seçeneklerimizi keşfedin.  
 
 ![Protetik Diş Tedavisi](https://dentlifes.com/tema/genel/uploads/hizmetler/4-1.jpg)  
-🔗 [Protetik Diş Tedavisi Detayları](https://dentlifes.com/hizmet-detay/protetik-dis-tedavisi)  
+🔗 [Protetik Diş Tedavisi](https://dentlifes.com/hizmet-detay/protetik-dis-tedavisi)  
 
 ---
 
@@ -29,7 +29,7 @@ Kaybolan diş fonksiyonlarını geri kazandırmak için protetik tedavi seçenek
 Gömülü dişlerin çekiminden diş eti operasyonlarına kadar her türlü cerrahi müdahale hizmeti.  
 
 ![Cerrahi Uygulamalar](https://dentlifes.com/tema/genel/uploads/hizmetler/2-1.jpg)  
-🔗 [Cerrahi Uygulamalar Detayları](https://dentlifes.com/hizmet-detay/cerrahi-uygulamalar)  
+🔗 [Cerrahi Uygulamalar](https://dentlifes.com/hizmet-detay/cerrahi-uygulamalar)  
 
 ---
 
@@ -37,7 +37,7 @@ Gömülü dişlerin çekiminden diş eti operasyonlarına kadar her türlü cerr
 Dijital Smile Design ile hayalinizdeki gülüşe sahip olun.  
 
 ![Dijital Gülüş Tasarımı](https://dentlifes.com/tema/genel/uploads/hizmetler/3-1.jpg)  
-🔗 [Gülüş Tasarımı Detayları](https://dentlifes.com/hizmet-detay/digital-smile-design-gulus-tasarimi)  
+🔗 [Gülüş Tasarımı](https://dentlifes.com/hizmet-detay/digital-smile-design-gulus-tasarimi)  
 
 ---
 
@@ -45,7 +45,7 @@ Dijital Smile Design ile hayalinizdeki gülüşe sahip olun.
 Dişlerinizi beyazlatmak ve daha parlak bir gülüşe sahip olmak için uzman ekibimizle iletişime geçin.  
 
 ![Diş Beyazlatma](https://dentlifes.com/tema/genel/uploads/hizmetler/1.jpg)  
-🔗 [Diş Beyazlatma Detayları](https://dentlifes.com/hizmet-detay/dis-beyazlatma-bleaching)  
+🔗 [Diş Beyazlatma](https://dentlifes.com/hizmet-detay/dis-beyazlatma-bleaching)  
 
 ---
 
@@ -53,7 +53,7 @@ Dişlerinizi beyazlatmak ve daha parlak bir gülüşe sahip olmak için uzman ek
 Eksik dişlerinizi tamamlayarak hayat kalitenizi artırmak için implant tedavisi seçeneklerimizi keşfedin.  
 
 ![İmplant Tedavisi](https://dentlifes.com/tema/genel/uploads/hizmetler/5.jpg)  
-🔗 [İmplant Tedavisi Detayları](https://dentlifes.com/hizmet-detay/implant-tedavisi)  
+🔗 [İmplant Tedavisi](https://dentlifes.com/hizmet-detay/implant-tedavisi)  
 
 ---
 
@@ -61,7 +61,7 @@ Eksik dişlerinizi tamamlayarak hayat kalitenizi artırmak için implant tedavis
 Çocuklarınızın diş sağlığı için uzman pedodonti hizmetlerimizden yararlanın.  
 
 ![Pedodonti](https://dentlifes.com/tema/genel/uploads/hizmetler/05cocuk.jpg)  
-🔗 [Pedodonti Detayları](https://dentlifes.com/hizmet-detay/pedodonti-cocuk-dis-hekimligi)  
+🔗 [Pedodonti](https://dentlifes.com/hizmet-detay/pedodonti-cocuk-dis-hekimligi)  
 
 ---
 
@@ -69,7 +69,7 @@ Eksik dişlerinizi tamamlayarak hayat kalitenizi artırmak için implant tedavis
 Estetik ve dayanıklı zirkonyum kaplamalarla kusursuz bir gülüşe sahip olun.  
 
 ![Zirkonyum Kaplama](https://dentlifes.com/tema/genel/uploads/hizmetler/02zirkonyum.jpg)  
-🔗 [Zirkonyum Kaplama Detayları](https://dentlifes.com/hizmet-detay/zirkonyum-kaplama)  
+🔗 [Zirkonyum Kaplama](https://dentlifes.com/hizmet-detay/zirkonyum-kaplama)  
 
 ---
 
